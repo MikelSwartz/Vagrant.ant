@@ -1,2 +1,4 @@
 .vagrant
 apache-ant*bin.tar.gz
+*.xml
+*.zip
